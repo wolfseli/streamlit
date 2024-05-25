@@ -15,7 +15,6 @@ url = "https://api.nasa.gov/neo/rest/v1/feed"
 # Set the parameters for the API request
 api_key = "96ycipvaBH52byeolyOAQPaaoEJCmLGZpzmWVwLG"
 start_date = "2024-05-01"
-end_date = "2024-05-26"
 
 # Initialize an empty list to store asteroid data
 asteroid_data = []
